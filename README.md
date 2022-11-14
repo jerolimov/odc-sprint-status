@@ -4,8 +4,8 @@ bash script for automatic fetching and posting of JIRA status
 ## Prerequisite 
 - Must have `jq` installed for running the script from local.
 - Must setup JIRA personal access token for querying private filters/boards. Follow steps below.
-- Must be able to JIRA REST API. 
-- Must be able to GITHUB REST API.
+- Must be able to access JIRA REST API. 
+- Must be able to access GITHUB REST API.
 - Must setup incoming webhook for slack channel.
 
 ## How to setup
