@@ -1,8 +1,8 @@
 # Jira_status_script
-bash script for automatic fetching of JIRA status
+bash script for automatic fetching and posting of JIRA status
 
 ## Prerequisite 
-- Must have jq installed for running the script from local.
+- Must have `jq` installed for running the script from local.
 - Must setup JIRA personal access token for querying private filters/boards. Follow steps below.
 - Must be able to JIRA REST API. 
 - Must be able to GITHUB REST API.
