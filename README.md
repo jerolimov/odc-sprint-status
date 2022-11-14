@@ -30,6 +30,7 @@ The script must be executed with the PAT(`Personal Access Token`) as the first a
 - `chmod +x ./jira_status_script.sh`
 - `./jira_status_script.sh <PAT>`
   
-*For public jira queries, you need no PAT
+*For public jira queries, you need no PAT*
+
 *This script can be scheduled as a cronjob on a local system or over a long running cluster*
 
