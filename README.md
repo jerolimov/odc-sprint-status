@@ -26,7 +26,7 @@ bash script for automatic fetching of JIRA status
 > curl -X POST -H "Content-type:application/json" --data "<formatted_message>" <webhook_endpoint>
 
 ## Execution
-The script must be executed with the <PAT>(`Personal Access Token`) as the first argument
+The script must be executed with the PAT(`Personal Access Token`) as the first argument
 - `chmod +x ./jira_status_script.sh`
 - `./jira_status_script.sh <PAT>`
   
